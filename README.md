@@ -4,11 +4,13 @@ Moving backgrounds for Samawi («سَماوي»), a Qur'an listening app: short
 loops cut from public-domain footage. The app downloads one when a
 listener chooses it, and checks it against the SHA-256 below.
 
-Every file here is a work of the United States government (NASA, the
-US National Park Service) and in the public domain. Each was cut,
-retimed, framed as a square and re-encoded for Samawi (HEVC, 24 frames a
-second, no sound). Credit is given though not required; nothing here
-implies any endorsement by NASA or the National Park Service.
+Every file here is in the public domain, as its source states: NASA
+(its Scientific Visualization Studio, which publishes the Cosmic Cliffs
+with no other note, made for NASA by STScI from NASA, ESA and CSA
+images) and the US National Park Service. Each was cut, retimed, framed
+as a square and re-encoded for Samawi (HEVC, 24 frames a second, no
+sound). Credit is given though not required; nothing here implies any
+endorsement by NASA, its partners or the National Park Service.
 
 ## Backgrounds, release `backgrounds-v1`
 
